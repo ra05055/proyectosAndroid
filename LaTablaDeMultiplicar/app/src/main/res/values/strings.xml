@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LaTablaDeMultiplicar</string>
+
+    <string name="hello_world">Otra cosa!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="etiquetaDeBoton">View</string>
+    <string name="textoOcualto">Input a Number</string>
+
+</resources>
